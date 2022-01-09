@@ -16,7 +16,7 @@ From our [class syllabus](https://github.com/yohman/22W-UP206A):
 While in this class, I want to learn how to critically describe, analyze, and visualize spatial data that informs planning policies and practices.
 learn ways to visualize data to communicate
 
-## Project Ideas :memo pencil:
+## Project Ideas :memo::pencil:
 Here are some project ideas that I've come up with for this course.
 
 profile of yourself, a description of the course, project ideas, and your objectives for the class
