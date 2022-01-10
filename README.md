@@ -17,6 +17,6 @@ While in this course, I hope to:
 
 ## Project Ideas :pencil2:
 Here are some project ideas for the group project:
-- Comparing affordable housing sites and travel time to work to explore the relationship of affordable housing sites to job access
-- Airbnb rental locations/prices and their effects on an area's rent changes
-- How travel patterns and traffic deaths have changed during COVID-19
+- a comparison of affordable housing sites and travel time to work to explore the relationship of affordable housing sites to job access
+- airbnb rental locations/prices and their effects on an area's rent changes
+- how travel patterns and traffic deaths have changed during COVID-19
